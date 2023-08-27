@@ -2,8 +2,6 @@
 
 ## Proyecto Final Calculo Empresarial
 
-## Descenso de gradiente en red neuronal utilizando backpropagation
-
 ### Cristian Vargas
 
 ### Gabriel Corrales
