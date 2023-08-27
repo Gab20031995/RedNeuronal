@@ -1,4 +1,13 @@
 # RedNeuronal
+
+## Proyecto Final Calculo Empresarial
+
+## Descenso de gradiente en red neuronal utilizando backpropagation
+
+### Cristian Vargas
+
+### Gabriel Corrales
+
 ## Descenso de gradiente aplicado a una neuronal con retro propagación.
 
 ### ¿Qué es una red neuronal?
